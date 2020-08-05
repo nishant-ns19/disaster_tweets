@@ -1,0 +1,12 @@
+Install following modules:
+1. fasttext
+2. pandas
+3. numpy
+4. nltk
+5. textblob
+6. tweet-preprocessor
+
+How to run :
+1. Run csvtotxt.py for dividing data among test and train set
+2. Train model using training data and test on test data and then save the model
+3. Run predict.py to start the communication with tool
