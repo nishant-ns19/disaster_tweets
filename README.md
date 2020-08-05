@@ -6,3 +6,10 @@
 - ### Run csvtotxt.py in case of changed dataset
 - ### Run "train and test.py" file to create and save a model
 - ### Run predict.py to start interaction with tool
+---
+### Dividing Data into ratio of 9:1
+![](Screenshots/Dividing_Data.jpg)
+### Training and testing
+![](Screenshots/Training_and_Testing.jpg)
+### Interaction
+![](Screenshots/Prediction.jpg)
